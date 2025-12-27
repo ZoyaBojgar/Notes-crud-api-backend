@@ -1,4 +1,4 @@
-📝 Notes CRUD API Backend
+📝 Notes CRUD API Backend(One)
 
 A lightweight and efficient *Node.js + Express* API that lets users *Create, **Read, **Update, and **Delete* notes. This project uses *MongoDB* for storage and *Mongoose* for easy database interaction.
 
